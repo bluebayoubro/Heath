@@ -22,3 +22,37 @@ h1 {
     text-align: center;
     font-size: 64px;
 }
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.aside-image {
+  /* Fix the image to the background */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  
+  /* Ensure it covers the whole screen without distortion */
+  object-fit: cover;
+  
+  /* Send it behind all other elements */
+  z-index: -1;
+}
+
+.aside {
+    position: relative;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 8px;
+    background-image: url("../images/aside.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 20px;
+    color: white;
+}
