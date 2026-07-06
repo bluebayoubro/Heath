@@ -86,13 +86,13 @@ article {
     text-decoration: none;
 }
 /* individual project background images*/
-#history {
+#family {
     background-image: url("../images/homepage/history.jpg");
 }
-#history2{
+#school{
     background-image: url("../images/homepage/history-redux.jpg");
 }
-#theater {
+/* #theater {
     background-image: url("../images/homepage/theater.jpeg");
 }
 #stew {
@@ -118,4 +118,4 @@ article {
 }
 #lopez {
     background-image: url("../images/homepage/lopez.jpg");
-}
+} */
