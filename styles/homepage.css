@@ -86,15 +86,16 @@ article {
     text-decoration: none;
 }
 /* individual project background images*/
+#personal {
+    background-image: url("../images/homepage/theater.jpeg");
+}
 #family {
     background-image: url("../images/homepage/history.jpg");
 }
 #school{
     background-image: url("../images/homepage/history-redux.jpg");
 }
-/* #theater {
-    background-image: url("../images/homepage/theater.jpeg");
-}
+/* 
 #stew {
     background-image: url("../images/homepage/stew.jpg");
 }
