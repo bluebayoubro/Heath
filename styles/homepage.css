@@ -43,7 +43,7 @@ aside p, aside h3 {
 }
 
 .faze {
-    width: 80%;
+    width: 60%;
     height: auto;
     filter:grayscale(100%);
     transition: 1s;
