@@ -87,13 +87,13 @@ article {
 }
 /* individual project background images*/
 #personal {
-    background-image: url("../images/homepage/theater.jpeg");
+    background-image: url("../images/personal1.jpg");
 }
 #family {
-    background-image: url("../images/homepage/history.jpg");
+    background-image: url("../images/family1.jpg");
 }
 #school{
-    background-image: url("../images/homepage/history-redux.jpg");
+    background-image: url("../images/school1.jpg");
 }
 /* 
 #stew {
